@@ -1,0 +1,29 @@
+crates/iceberg/src/transaction/replace_files.rs
+  s_c74b45b7796ea5::t_2806dfc22ce9f6 23,36-37,69-70,78-79,84-87,90-91,137-146,217-227,229-230,244-246,283-287,342,371,461-470,720-723,771-776,778-783,1175-1267
+crates/iceberg/src/transaction/snapshot.rs
+  s_35655907b7d36c::t_e4ffdd02db2416 214,217-232,235-240,280-289,291-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "836f14f66d79bba47473edfb8217ddb5b7e37714",
+  "prompts": {},
+  "sessions": {
+    "s_35655907b7d36c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5eb7d776ffex2vAnRcND8VX7G",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    },
+    "s_c74b45b7796ea5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5ea5d7e5ffebKnku4LuQoN7lU",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    }
+  }
+}
