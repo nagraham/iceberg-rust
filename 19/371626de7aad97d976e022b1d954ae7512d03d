@@ -1,0 +1,19 @@
+crates/iceberg/src/transaction/replace_files.rs
+  s_35655907b7d36c::t_c97187329416e8 69,79,88,93,226-229,231-235,243-246,747,782-790,792-807,1234,1238-1241,1255-1261,1268-1269,1283-1287,1289-1294,1296-1297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "19371626de7aad97d976e022b1d954ae7512d03d",
+  "prompts": {},
+  "sessions": {
+    "s_35655907b7d36c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5eb7d776ffex2vAnRcND8VX7G",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    }
+  }
+}
