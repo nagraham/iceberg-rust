@@ -1,0 +1,25 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3eb9f1b78431a9b7c1bbe5b40e97f5c2482060cd",
+  "prompts": {},
+  "sessions": {
+    "s_35655907b7d36c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5eb7d776ffex2vAnRcND8VX7G",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    },
+    "s_c74b45b7796ea5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5ea5d7e5ffebKnku4LuQoN7lU",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    }
+  }
+}
