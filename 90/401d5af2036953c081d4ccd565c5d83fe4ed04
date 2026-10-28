@@ -1,0 +1,29 @@
+crates/iceberg/src/writer/base_writer/data_file_writer.rs
+  s_b06036c87ef834::t_d7c2404c71a725 66-68
+crates/iceberg/src/writer/base_writer/deletion_vector_writer.rs
+  s_b06036c87ef834::t_c8b3035081f121 64-66
+crates/iceberg/src/writer/base_writer/equality_delete_writer.rs
+  s_b06036c87ef834::t_df10196f90f512 166-168
+crates/iceberg/src/writer/base_writer/position_delete_file_writer.rs
+  s_b06036c87ef834::t_38560916cefa84 119-121
+crates/iceberg/src/writer/delta_writer/writer.rs
+  s_b06036c87ef834::t_73653ee1b7af59 93,355-357,369,641-720
+crates/iceberg/src/writer/task_writer.rs
+  s_b06036c87ef834::t_19f9fe40e8f3f1 60,125-135,376-377,472-490,497,513,639,655
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "90401d5af2036953c081d4ccd565c5d83fe4ed04",
+  "prompts": {},
+  "sessions": {
+    "s_b06036c87ef834": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e7d409e67ffeLEiy8JsZbsrdP0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    }
+  }
+}
