@@ -1,0 +1,19 @@
+crates/iceberg/public-api.txt
+  s_b06036c87ef834::t_7a8a6501563d7e 3811
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c7b9c64d5603c31116c3c2ba178a096585aa81a3",
+  "prompts": {},
+  "sessions": {
+    "s_b06036c87ef834": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e7d409e67ffeLEiy8JsZbsrdP0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alex Graham <agraham@cloudflare.com>"
+    }
+  }
+}
